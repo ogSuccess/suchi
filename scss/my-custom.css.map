@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,IAAI;EAEA,UAAU,EAAE,MAAM",
+"sources": ["my-custom.scss"],
+"names": [],
+"file": "my-custom.css"
+}

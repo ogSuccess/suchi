@@ -1,0 +1,11 @@
+//overide default colors 
+$theme-colors: (
+  "primary": #E64A19,
+  "secondary" :#384d57
+);  
+
+//overide bootstrap theme
+
+@import"https:stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+
+
